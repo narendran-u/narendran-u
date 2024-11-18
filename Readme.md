@@ -68,7 +68,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/narendran-u/narendran-u/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/narendran-u/narendran-u/blob/main/workflow/snake.yaml.svg" alt="Snake animation" />
 
 ###
 
